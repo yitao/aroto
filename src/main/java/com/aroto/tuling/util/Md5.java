@@ -1,4 +1,4 @@
-package com.aroto.util;
+package com.aroto.tuling.util;
 import java.security.MessageDigest;
 /**
  * md5加密
