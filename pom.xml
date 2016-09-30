@@ -119,6 +119,14 @@
             <version>2.3.8</version>
         </dependency>
 
+        <!--给android用的-->
+        <!-- https://mvnrepository.com/artifact/com.google.protobuf.nano/protobuf-javanano -->
+        <dependency>
+            <groupId>com.google.protobuf.nano</groupId>
+            <artifactId>protobuf-javanano</artifactId>
+            <version>3.0.0-alpha-7</version>
+        </dependency>
+
 
     </dependencies>
 
