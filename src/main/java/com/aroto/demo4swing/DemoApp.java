@@ -8,5 +8,7 @@ import javax.swing.*;
 public class DemoApp {
     public static void main(String[] args) {
         MainPage mainPage= new MainPage();
+//        mainPage.setTitle("demo2");
+//        mainPage.repaint();
     }
 }

@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eca58e76-add0-493d-bcc0-2d6178c0ff51" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/aroto/demo4swing/MainPage.class" afterPath="$PROJECT_DIR$/target/classes/com/aroto/demo4swing/MainPage.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/aroto/demo4swing/DemoApp.java" afterPath="$PROJECT_DIR$/src/main/java/com/aroto/demo4swing/DemoApp.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/aroto/demo4swing/MainPage.java" afterPath="$PROJECT_DIR$/src/main/java/com/aroto/demo4swing/MainPage.java" />
     </list>
     <ignored path="aroto.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,221 +29,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MakerTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/jsoup/MakerTest.java">
+      <file leaf-file-name="Button.java" pinned="false" current-in-tab="true">
+        <entry file="jar://D:/Home/Java/jdk1.7.0_76/src.zip!/java/awt/Button.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="43" column="53" selection-start-line="43" selection-start-column="53" selection-end-line="43" selection-end-column="53" />
+            <state vertical-scroll-proportion="0.7296">
+              <caret line="86" column="33" selection-start-line="86" selection-start-column="33" selection-end-line="86" selection-end-column="33" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+      <file leaf-file-name="Component.java" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/Home/Java/jdk1.7.0_76/src.zip!/java/awt/Component.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.428572">
-              <caret line="111" column="35" selection-start-line="111" selection-start-column="35" selection-end-line="111" selection-end-column="35" />
+            <state vertical-scroll-proportion="-1.2666667">
+              <caret line="187" column="49" selection-start-line="187" selection-start-column="49" selection-end-line="187" selection-end-column="49" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DemoApp.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/aroto/demo4swing/DemoApp.java">
+      <file leaf-file-name="ImageObserver.java" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/Home/Java/jdk1.7.0_76/src.zip!/java/awt/image/ImageObserver.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
-              <folding>
-                <element signature="e#162#163#0" expanded="true" />
-                <element signature="e#211#212#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MainPage.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/aroto/demo4swing/MainPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0608">
-              <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WGLGraphicsConfig.class" pinned="false" current-in-tab="false">
-        <entry file="jar://D:/Home/Java/jdk1.7.0_76/jre/lib/rt.jar!/sun/java2d/opengl/WGLGraphicsConfig.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.428571">
-              <caret line="62" column="14" selection-start-line="62" selection-start-column="14" selection-end-line="62" selection-end-column="14" />
+              <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Win32GraphicsConfig.class" pinned="false" current-in-tab="false">
-        <entry file="jar://D:/Home/Java/jdk1.7.0_76/jre/lib/rt.jar!/sun/awt/Win32GraphicsConfig.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.535714">
-              <caret line="50" column="11" selection-start-line="50" selection-start-column="11" selection-end-line="50" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GraphicsConfiguration.java" pinned="false" current-in-tab="false">
-        <entry file="jar://D:/Home/Java/jdk1.7.0_76/src.zip!/java/awt/GraphicsConfiguration.java">
+      <file leaf-file-name="MenuContainer.java" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/Home/Java/jdk1.7.0_76/src.zip!/java/awt/MenuContainer.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="108" column="22" selection-start-line="108" selection-start-column="22" selection-end-line="108" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WxssMaker.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/core/WxssMaker.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Pattern.java" pinned="false" current-in-tab="false">
-        <entry file="jar://D:/Home/Java/jdk1.7.0_76/src.zip!/java/util/regex/Pattern.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="1323" column="12" selection-start-line="1323" selection-start-column="12" selection-end-line="1323" selection-end-column="12" />
-              <folding>
-                <element signature="e#0#210663#0" expanded="false" />
-                <element signature="imports" expanded="false" />
-                <element signature="e#47734#47735#0" expanded="false" />
-                <element signature="e#47778#47779#0" expanded="false" />
-                <element signature="e#48646#48647#0" expanded="false" />
-                <element signature="e#48694#48695#0" expanded="false" />
-                <element signature="e#48879#48880#0" expanded="false" />
-                <element signature="e#48909#48910#0" expanded="false" />
-                <element signature="e#49188#49189#0" expanded="false" />
-                <element signature="e#49218#49219#0" expanded="false" />
-                <element signature="e#49894#49895#0" expanded="false" />
-                <element signature="e#49922#49923#0" expanded="false" />
-                <element signature="e#56544#56545#0" expanded="false" />
-                <element signature="e#56582#56583#0" expanded="false" />
-                <element signature="e#66903#66904#0" expanded="false" />
-                <element signature="e#66966#66967#0" expanded="false" />
-                <element signature="e#73850#73851#0" expanded="false" />
-                <element signature="e#73881#73882#0" expanded="false" />
-                <element signature="e#74381#74382#0" expanded="false" />
-                <element signature="e#74420#74421#0" expanded="false" />
-                <element signature="e#74834#74835#0" expanded="false" />
-                <element signature="e#74873#74874#0" expanded="false" />
-                <element signature="e#77852#77853#0" expanded="false" />
-                <element signature="e#77876#77877#0" expanded="false" />
-                <element signature="e#119376#119377#0" expanded="false" />
-                <element signature="e#119405#119406#0" expanded="false" />
-                <element signature="e#119444#119445#0" expanded="false" />
-                <element signature="e#119472#119473#0" expanded="false" />
-                <element signature="e#122925#122926#0" expanded="false" />
-                <element signature="e#122976#122977#0" expanded="false" />
-                <element signature="e#125338#125339#0" expanded="false" />
-                <element signature="e#125383#125384#0" expanded="false" />
-                <element signature="e#128036#128037#0" expanded="false" />
-                <element signature="e#128071#128072#0" expanded="false" />
-                <element signature="e#133416#133417#0" expanded="false" />
-                <element signature="e#133455#133456#0" expanded="false" />
-                <element signature="e#135816#135817#0" expanded="false" />
-                <element signature="e#135855#135856#0" expanded="false" />
-                <element signature="e#138888#138889#0" expanded="false" />
-                <element signature="e#138926#138927#0" expanded="false" />
-                <element signature="e#139157#139158#0" expanded="false" />
-                <element signature="e#139195#139196#0" expanded="false" />
-                <element signature="e#139533#139534#0" expanded="false" />
-                <element signature="e#139590#139591#0" expanded="false" />
-                <element signature="e#139787#139788#0" expanded="false" />
-                <element signature="e#139829#139830#0" expanded="false" />
-                <element signature="e#140202#140203#0" expanded="false" />
-                <element signature="e#140244#140245#0" expanded="false" />
-                <element signature="e#140284#140285#0" expanded="false" />
-                <element signature="e#140353#140354#0" expanded="false" />
-                <element signature="e#140572#140573#0" expanded="false" />
-                <element signature="e#140616#140617#0" expanded="false" />
-                <element signature="e#140656#140657#0" expanded="false" />
-                <element signature="e#140727#140728#0" expanded="false" />
-                <element signature="e#140985#140986#0" expanded="false" />
-                <element signature="e#141062#141063#0" expanded="false" />
-                <element signature="e#141315#141316#0" expanded="false" />
-                <element signature="e#141358#141359#0" expanded="false" />
-                <element signature="e#141596#141597#0" expanded="false" />
-                <element signature="e#141662#141663#0" expanded="false" />
-                <element signature="e#141818#141819#0" expanded="false" />
-                <element signature="e#141854#141855#0" expanded="false" />
-                <element signature="e#142216#142217#0" expanded="false" />
-                <element signature="e#142250#142251#0" expanded="false" />
-                <element signature="e#142901#142902#0" expanded="false" />
-                <element signature="e#142935#142936#0" expanded="false" />
-                <element signature="e#143704#143705#0" expanded="false" />
-                <element signature="e#143738#143739#0" expanded="false" />
-                <element signature="e#144527#144528#0" expanded="false" />
-                <element signature="e#144561#144562#0" expanded="false" />
-                <element signature="e#145451#145452#0" expanded="false" />
-                <element signature="e#145485#145486#0" expanded="false" />
-                <element signature="e#145514#145515#0" expanded="false" />
-                <element signature="e#145561#145562#0" expanded="false" />
-                <element signature="e#146471#146472#0" expanded="false" />
-                <element signature="e#146505#146506#0" expanded="false" />
-                <element signature="e#146534#146535#0" expanded="false" />
-                <element signature="e#146612#146613#0" expanded="false" />
-                <element signature="e#146686#146687#0" expanded="false" />
-                <element signature="e#146735#146736#0" expanded="false" />
-                <element signature="e#148291#148292#0" expanded="false" />
-                <element signature="e#148326#148327#0" expanded="false" />
-                <element signature="e#148870#148871#0" expanded="false" />
-                <element signature="e#148911#148912#0" expanded="false" />
-                <element signature="e#162837#162838#0" expanded="false" />
-                <element signature="e#162895#162896#0" expanded="false" />
-                <element signature="e#162934#162935#0" expanded="false" />
-                <element signature="e#162983#162984#0" expanded="false" />
-                <element signature="e#165562#165563#0" expanded="false" />
-                <element signature="e#165609#165610#0" expanded="false" />
-                <element signature="e#166511#166512#0" expanded="false" />
-                <element signature="e#166551#166552#0" expanded="false" />
-                <element signature="e#168692#168693#0" expanded="false" />
-                <element signature="e#168732#168733#0" expanded="false" />
-                <element signature="e#168798#168799#0" expanded="false" />
-                <element signature="e#168860#168861#0" expanded="false" />
-                <element signature="e#168899#168900#0" expanded="false" />
-                <element signature="e#168946#168947#0" expanded="false" />
-                <element signature="e#172287#172288#0" expanded="false" />
-                <element signature="e#172340#172341#0" expanded="false" />
-                <element signature="e#177989#177990#0" expanded="false" />
-                <element signature="e#178043#178044#0" expanded="false" />
-                <element signature="e#180181#180182#0" expanded="false" />
-                <element signature="e#180221#180222#0" expanded="false" />
-                <element signature="e#180964#180965#0" expanded="false" />
-                <element signature="e#181004#181005#0" expanded="false" />
-                <element signature="e#182154#182155#0" expanded="false" />
-                <element signature="e#182210#182211#0" expanded="false" />
-                <element signature="e#183620#183621#0" expanded="false" />
-                <element signature="e#183667#183668#0" expanded="false" />
-                <element signature="e#186186#186187#0" expanded="false" />
-                <element signature="e#186233#186234#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Elements.class" pinned="false" current-in-tab="false">
-        <entry file="jar://D:/Home/apache-maven-3.0.5/repo/org/jsoup/jsoup/1.7.3/jsoup-1.7.3.jar!/org/jsoup/select/Elements.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="381" column="19" selection-start-line="381" selection-start-column="19" selection-end-line="381" selection-end-column="19" />
+              <caret line="32" column="17" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -299,8 +122,8 @@
         <option value="$PROJECT_DIR$/src/test/java/com/core/WxssMaker.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/jsoup/MakerTest.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/aroto/demo4swing/DemoApp.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/aroto/demo4swing/MainPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/aroto/demo4swing/DemoApp.java" />
       </list>
     </option>
   </component>
@@ -354,6 +177,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -376,11 +200,25 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Maven: com.google.protobuf.nano:protobuf-javanano:3.0.0-alpha-7" />
+              <option name="myItemId" value="&lt; 1.7 &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aroto" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; 1.7 &gt;" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="protobuf-javanano-3.0.0-alpha-7.jar" />
+              <option name="myItemId" value="rt.jar" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -394,15 +232,67 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Maven: com.google.protobuf.nano:protobuf-javanano:3.0.0-alpha-7" />
+              <option name="myItemId" value="&lt; 1.7 &gt;" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="protobuf-javanano-3.0.0-alpha-7.jar" />
+              <option name="myItemId" value="rt.jar" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="nano" />
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aroto" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; 1.7 &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rt.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="awt" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aroto" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; 1.7 &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rt.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="applet" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -520,7 +410,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -1133,6 +1022,7 @@
       <workItem from="1474523009351" duration="13180000" />
       <workItem from="1474613344389" duration="512000" />
       <workItem from="1475224196666" duration="1467000" />
+      <workItem from="1475899872611" duration="4010000" />
     </task>
     <task id="LOCAL-00001" summary="code">
       <created>1470300613098</created>
@@ -1200,25 +1090,25 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39706000" />
+    <option name="totallyTimeSpent" value="43716000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1924" height="1056" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32875264" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29144096" sideWeight="0.5064378" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29144096" sideWeight="0.50858366" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29144096" sideWeight="0.49356222" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29144096" sideWeight="0.4914163" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel remote servers log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32832617" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31866953" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -1247,85 +1137,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/aroto/calculator/Operator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="65" column="36" selection-start-line="65" selection-start-column="36" selection-end-line="65" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/aroto/core/CalculatorMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/aroto/calculator/Calculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Home/Java/jdk1.7.0_76/src.zip!/java/awt/event/ActionListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="49" column="16" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/aroto/calculator/Operator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="65" column="36" selection-start-line="65" selection-start-column="36" selection-end-line="65" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/aroto/core/CalculatorMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/aroto/calculator/Calculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Home/Java/jdk1.7.0_76/src.zip!/java/awt/event/ActionListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="49" column="16" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/aroto/calculator/Operator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1545,120 +1356,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="1323" column="12" selection-start-line="1323" selection-start-column="12" selection-end-line="1323" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#210663#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#47734#47735#0" expanded="false" />
-            <element signature="e#47778#47779#0" expanded="false" />
-            <element signature="e#48646#48647#0" expanded="false" />
-            <element signature="e#48694#48695#0" expanded="false" />
-            <element signature="e#48879#48880#0" expanded="false" />
-            <element signature="e#48909#48910#0" expanded="false" />
-            <element signature="e#49188#49189#0" expanded="false" />
-            <element signature="e#49218#49219#0" expanded="false" />
-            <element signature="e#49894#49895#0" expanded="false" />
-            <element signature="e#49922#49923#0" expanded="false" />
-            <element signature="e#56544#56545#0" expanded="false" />
-            <element signature="e#56582#56583#0" expanded="false" />
-            <element signature="e#66903#66904#0" expanded="false" />
-            <element signature="e#66966#66967#0" expanded="false" />
-            <element signature="e#73850#73851#0" expanded="false" />
-            <element signature="e#73881#73882#0" expanded="false" />
-            <element signature="e#74381#74382#0" expanded="false" />
-            <element signature="e#74420#74421#0" expanded="false" />
-            <element signature="e#74834#74835#0" expanded="false" />
-            <element signature="e#74873#74874#0" expanded="false" />
-            <element signature="e#77852#77853#0" expanded="false" />
-            <element signature="e#77876#77877#0" expanded="false" />
-            <element signature="e#119376#119377#0" expanded="false" />
-            <element signature="e#119405#119406#0" expanded="false" />
-            <element signature="e#119444#119445#0" expanded="false" />
-            <element signature="e#119472#119473#0" expanded="false" />
-            <element signature="e#122925#122926#0" expanded="false" />
-            <element signature="e#122976#122977#0" expanded="false" />
-            <element signature="e#125338#125339#0" expanded="false" />
-            <element signature="e#125383#125384#0" expanded="false" />
-            <element signature="e#128036#128037#0" expanded="false" />
-            <element signature="e#128071#128072#0" expanded="false" />
-            <element signature="e#133416#133417#0" expanded="false" />
-            <element signature="e#133455#133456#0" expanded="false" />
-            <element signature="e#135816#135817#0" expanded="false" />
-            <element signature="e#135855#135856#0" expanded="false" />
-            <element signature="e#138888#138889#0" expanded="false" />
-            <element signature="e#138926#138927#0" expanded="false" />
-            <element signature="e#139157#139158#0" expanded="false" />
-            <element signature="e#139195#139196#0" expanded="false" />
-            <element signature="e#139533#139534#0" expanded="false" />
-            <element signature="e#139590#139591#0" expanded="false" />
-            <element signature="e#139787#139788#0" expanded="false" />
-            <element signature="e#139829#139830#0" expanded="false" />
-            <element signature="e#140202#140203#0" expanded="false" />
-            <element signature="e#140244#140245#0" expanded="false" />
-            <element signature="e#140284#140285#0" expanded="false" />
-            <element signature="e#140353#140354#0" expanded="false" />
-            <element signature="e#140572#140573#0" expanded="false" />
-            <element signature="e#140616#140617#0" expanded="false" />
-            <element signature="e#140656#140657#0" expanded="false" />
-            <element signature="e#140727#140728#0" expanded="false" />
-            <element signature="e#140985#140986#0" expanded="false" />
-            <element signature="e#141062#141063#0" expanded="false" />
-            <element signature="e#141315#141316#0" expanded="false" />
-            <element signature="e#141358#141359#0" expanded="false" />
-            <element signature="e#141596#141597#0" expanded="false" />
-            <element signature="e#141662#141663#0" expanded="false" />
-            <element signature="e#141818#141819#0" expanded="false" />
-            <element signature="e#141854#141855#0" expanded="false" />
-            <element signature="e#142216#142217#0" expanded="false" />
-            <element signature="e#142250#142251#0" expanded="false" />
-            <element signature="e#142901#142902#0" expanded="false" />
-            <element signature="e#142935#142936#0" expanded="false" />
-            <element signature="e#143704#143705#0" expanded="false" />
-            <element signature="e#143738#143739#0" expanded="false" />
-            <element signature="e#144527#144528#0" expanded="false" />
-            <element signature="e#144561#144562#0" expanded="false" />
-            <element signature="e#145451#145452#0" expanded="false" />
-            <element signature="e#145485#145486#0" expanded="false" />
-            <element signature="e#145514#145515#0" expanded="false" />
-            <element signature="e#145561#145562#0" expanded="false" />
-            <element signature="e#146471#146472#0" expanded="false" />
-            <element signature="e#146505#146506#0" expanded="false" />
-            <element signature="e#146534#146535#0" expanded="false" />
-            <element signature="e#146612#146613#0" expanded="false" />
-            <element signature="e#146686#146687#0" expanded="false" />
-            <element signature="e#146735#146736#0" expanded="false" />
-            <element signature="e#148291#148292#0" expanded="false" />
-            <element signature="e#148326#148327#0" expanded="false" />
-            <element signature="e#148870#148871#0" expanded="false" />
-            <element signature="e#148911#148912#0" expanded="false" />
-            <element signature="e#162837#162838#0" expanded="false" />
-            <element signature="e#162895#162896#0" expanded="false" />
-            <element signature="e#162934#162935#0" expanded="false" />
-            <element signature="e#162983#162984#0" expanded="false" />
-            <element signature="e#165562#165563#0" expanded="false" />
-            <element signature="e#165609#165610#0" expanded="false" />
-            <element signature="e#166511#166512#0" expanded="false" />
-            <element signature="e#166551#166552#0" expanded="false" />
-            <element signature="e#168692#168693#0" expanded="false" />
-            <element signature="e#168732#168733#0" expanded="false" />
-            <element signature="e#168798#168799#0" expanded="false" />
-            <element signature="e#168860#168861#0" expanded="false" />
-            <element signature="e#168899#168900#0" expanded="false" />
-            <element signature="e#168946#168947#0" expanded="false" />
-            <element signature="e#172287#172288#0" expanded="false" />
-            <element signature="e#172340#172341#0" expanded="false" />
-            <element signature="e#177989#177990#0" expanded="false" />
-            <element signature="e#178043#178044#0" expanded="false" />
-            <element signature="e#180181#180182#0" expanded="false" />
-            <element signature="e#180221#180222#0" expanded="false" />
-            <element signature="e#180964#180965#0" expanded="false" />
-            <element signature="e#181004#181005#0" expanded="false" />
-            <element signature="e#182154#182155#0" expanded="false" />
-            <element signature="e#182210#182211#0" expanded="false" />
-            <element signature="e#183620#183621#0" expanded="false" />
-            <element signature="e#183667#183668#0" expanded="false" />
-            <element signature="e#186186#186187#0" expanded="false" />
-            <element signature="e#186233#186234#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1673,9 +1371,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1683,40 +1379,36 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="43" column="53" selection-start-line="43" selection-start-column="53" selection-end-line="43" selection-end-column="53" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.428572">
+        <state vertical-scroll-proportion="0.0">
           <caret line="111" column="35" selection-start-line="111" selection-start-column="35" selection-end-line="111" selection-end-column="35" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/aroto/demo4swing/DemoApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
-          <folding>
-            <element signature="e#162#163#0" expanded="true" />
-            <element signature="e#211#212#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/Home/Java/jdk1.7.0_76/src.zip!/java/awt/GraphicsConfiguration.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="2.4016">
           <caret line="108" column="22" selection-start-line="108" selection-start-column="22" selection-end-line="108" selection-end-column="22" />
-          <folding />
+          <folding>
+            <element signature="e#0#18444#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#16999#17000#0" expanded="false" />
+            <element signature="e#17056#17057#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="jar://D:/Home/Java/jdk1.7.0_76/jre/lib/rt.jar!/sun/awt/Win32GraphicsConfig.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.535714">
+        <state vertical-scroll-proportion="0.6365159">
           <caret line="50" column="11" selection-start-line="50" selection-start-column="11" selection-end-line="50" selection-end-column="11" />
           <folding />
         </state>
@@ -1724,19 +1416,119 @@
     </entry>
     <entry file="jar://D:/Home/Java/jdk1.7.0_76/jre/lib/rt.jar!/sun/java2d/opengl/WGLGraphicsConfig.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.428571">
+        <state vertical-scroll-proportion="0.7319933">
           <caret line="62" column="14" selection-start-line="62" selection-start-column="14" selection-end-line="62" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Home/Java/jdk1.7.0_76/src.zip!/java/awt/FlowLayout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.824">
+          <caret line="84" column="48" selection-start-line="84" selection-start-column="35" selection-end-line="84" selection-end-column="48" />
+          <folding>
+            <element signature="e#5367#5368#0" expanded="true" />
+            <element signature="e#5401#5402#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Home/Java/jdk1.7.0_76/src.zip!/java/awt/event/WindowAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9424">
+          <caret line="54" column="22" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Home/Java/jdk1.7.0_76/src.zip!/java/awt/event/MouseListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5152">
+          <caret line="62" column="43" selection-start-line="62" selection-start-column="43" selection-end-line="62" selection-end-column="43" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/aroto/demo4swing/MainPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0608">
-          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+        <state vertical-scroll-proportion="0.3328">
+          <caret line="37" column="11" selection-start-line="37" selection-start-column="11" selection-end-line="37" selection-end-column="11" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="docComment;class#MainPage#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/aroto/demo4swing/DemoApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.304">
+          <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Home/Java/jdk1.7.0_76/src.zip!/java/applet/Applet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1824">
+          <caret line="49" column="13" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Home/Java/jdk1.7.0_76/src.zip!/java/awt/LayoutManager2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.456">
+          <caret line="44" column="17" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Home/Java/jdk1.7.0_76/src.zip!/java/awt/CardLayout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5152">
+          <caret line="58" column="38" selection-start-line="58" selection-start-column="38" selection-end-line="58" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Home/Java/jdk1.7.0_76/src.zip!/java/awt/Canvas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5152">
+          <caret line="43" column="13" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Home/Java/jdk1.7.0_76/src.zip!/java/awt/MenuContainer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="32" column="17" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Home/Java/jdk1.7.0_76/src.zip!/java/awt/image/ImageObserver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Home/Java/jdk1.7.0_76/src.zip!/java/awt/Component.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.2666667">
+          <caret line="187" column="49" selection-start-line="187" selection-start-column="49" selection-end-line="187" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Home/Java/jdk1.7.0_76/src.zip!/java/awt/Button.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7296">
+          <caret line="86" column="33" selection-start-line="86" selection-start-column="33" selection-end-line="86" selection-end-column="33" />
+          <folding />
         </state>
       </provider>
     </entry>
