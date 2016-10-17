@@ -67,7 +67,8 @@ public class MainPage extends JFrame {
         System.out.println("-----------------------------------------");
         System.out.println("---                init               ---");
         this.setSize(this.width,this.height);
-        this.getContentPane().setLayout(new FlowLayout());//设置布局控制器
+        CardLayout layout = new CardLayout();
+        this.getContentPane().setLayout(layout);//设置布局控制器
         this.setTitle("demo");//设置窗口标题
         this.setFocusable(false);
         this.setBackground(Color.BLACK);
