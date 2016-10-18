@@ -5,6 +5,9 @@ import com.aroto.util.FileUtils;
 import com.aroto.util.RegexUtils;
 import org.jsoup.Connection;
 import org.jsoup.Jsoup;
+import org.jsoup.nodes.Document;
+import org.jsoup.nodes.Element;
+import org.jsoup.select.Elements;
 import org.junit.Test;
 
 import java.io.IOException;
@@ -23,7 +26,8 @@ public class S1 {
     public void t1() throws IOException {
         String br = "https://www.baidu.com/baidu?tn=monline_3_dg&ie=utf-8&wd=";
         String wd = "a";
-        String url = br + wd;
+//        String url = br + wd;
+        String url = "http://www.csdn.net/article/2015-03-24/2824301";
         Connection conn = Jsoup.connect(url);
         String userAgent = "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0";
         conn.userAgent(userAgent);
@@ -31,9 +35,28 @@ public class S1 {
         conn.cookies(cookies);
         conn.get();
         Connection.Response res = conn.response();
-        res.cookies();
-        System.out.println(res.parse().html());
-        FileUtils.write("d:/tdata/test/1.txt", res.parse().html(), false);
+        Document doc = res.parse();
+        String title = "5";
+        Elements teles = doc.getElementsByClass("title");
+        if(teles.size()>0){
+            title = teles.get(0).text().trim();
+        }
+
+        Elements eles = doc.getElementsByClass("news_content");
+        System.out.println(eles.size());
+        if(eles.size()>0){
+            StringBuilder sb = new StringBuilder();
+            Elements childs = eles.get(0).children();
+            for(int i=0;i<childs.size();i++){
+                Element child = childs.get(i);
+                sb.append(child.text());
+                sb.append("\r\n");
+            }
+            FileUtils.write("d:/tdata/test/"+title+".txt", sb.toString(), false);
+        }
+//        res.cookies();
+//        System.out.println(res.parse().html());
+//        FileUtils.write("d:/tdata/test/3.txt", res.parse().html(), false);
     }
 
     @Test
