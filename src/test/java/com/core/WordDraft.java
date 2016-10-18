@@ -19,6 +19,7 @@ public class WordDraft {
     public void quickStart() throws Exception{
         String tar = "d:/t2/test.docx";
         XWPFDocument doc = new XWPFDocument();
+
         XWPFParagraph p1 = doc.createParagraph();
         p1.setAlignment(ParagraphAlignment.CENTER);
         p1.setBorderBottom(Borders.DOUBLE);
@@ -34,6 +35,7 @@ public class WordDraft {
         r1.setFontFamily("Courier");
         r1.setUnderline(UnderlinePatterns.DOT_DOT_DASH);
         r1.setTextPosition(100);
+
         XWPFParagraph p2 = doc.createParagraph();
         p2.setAlignment(ParagraphAlignment.RIGHT);
         p2.setBorderBottom(Borders.DOUBLE);
@@ -50,6 +52,7 @@ public class WordDraft {
         r3.setStrike(true);
         r3.setFontSize(20);
         r3.setSubscript(VerticalAlign.SUPERSCRIPT);
+
         XWPFParagraph p3 = doc.createParagraph();
         p3.setWordWrap(true);
         p3.setPageBreak(true);
